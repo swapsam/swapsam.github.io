@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>https://gauravparmar.github.io</loc> 
+    <image:image>
+       <image:loc>https://gauravparmar.github.io/img/profile.jpg</image:loc>
+       <image:caption>Gaurav Parmar</image:caption>
+    </image:image>
+  </url>
+  <url> 
+    <loc>https://gauravparmar.github.io/index.html</loc> 
+    <image:image>
+       <image:loc>https://gauravparmar.github.io/img/profile.jpg</image:loc>
+       <image:caption>Gaurav Parmar</image:caption>
+    </image:image>
+  </url>
+  <url> 
+    <loc>https://gauravparmar.github.io/#about</loc> 
+    <image:image>
+       <image:loc>https://gauravparmar.github.io/img/profile.jpg</image:loc>
+       <image:caption>Gaurav Parmar</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#skills</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#experience</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#education</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#projects</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#publications</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#achievements</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#interests</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#resume</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/#social</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/Gaurav_Parmar_Resume.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gauravparmar.github.io/GToDo/</loc>
+  </url>
+</urlset>
