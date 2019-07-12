@@ -1,3 +1,3 @@
-# gauravparmar.github.io
-Gaurav Parmar's personal website
+# swapsam.github.io
+Swapnil Samudre'spersonal website
 
