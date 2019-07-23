@@ -1,3 +1,3 @@
 # swapsam.github.io
-Swapnil Samudre'spersonal website
+Swapnil Samudre's personal website
 
